@@ -1,5 +1,7 @@
 from __future__ import print_function
 
+import myprinter
+
 
 if __name__ == '__main__':
-    print(10)
+    myprinter.do_print(10)
