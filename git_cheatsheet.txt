@@ -3,3 +3,6 @@
 Make a new repository using:
 `git init my_repository`
 
+Add a new file to the repository:
+git add some_file.txt
+git commit -m "My awesome message"
