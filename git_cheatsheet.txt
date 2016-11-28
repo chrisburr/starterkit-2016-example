@@ -6,3 +6,8 @@ Make a new repository using:
 Add a new file to the repository:
 git add some_file.txt
 git commit -m "My awesome message"
+
+Helpful commands to check the state of the repository
+ - git log
+ - git status
+ - git diff [--staged]
