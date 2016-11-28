@@ -1,0 +1,7 @@
+We've been taught about:
+ - bash
+ - tar
+ - sed
+ - grep
+ - find
+

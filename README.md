@@ -6,3 +6,4 @@ It was awesome :tada:
 ## Summary
 I've taken notes on:
  - git
+ - bash
