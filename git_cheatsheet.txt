@@ -1,0 +1,5 @@
+# Git cheatsheet
+
+Make a new repository using:
+`git init my_repository`
+
